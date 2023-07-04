@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **05/07/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vSEyikwmVYaU0xwm6urIIdVH7PEPwlrL5JuaxrVa9bjV4lXaqXYw629zUQR3EvXAhIKm64PtBNcYpH0/pub) dell' appello d'esame estivo dell' 11/07/2023.
+
  - **14/06/2023** Online il [testo](https://docs.google.com/document/d/e/2PACX-1vS1USwtqwJ1JqgE0rMwaQ7-Jz5LsHmokZQ_gMQ0LO687lH7BlqkLF9kExeBmqOOruPpqwqCU_dT1BoV/pub) dell' appello d'esame estivo del 20/06/2023.
 
  - **10/05/2023**: Fissati gli appelli estivo e autunnale: il 20/06/2023 alle 11:00 e il 19/09/2023 alle 11:00, entrambi in aula Morin (2a) H2bis.
